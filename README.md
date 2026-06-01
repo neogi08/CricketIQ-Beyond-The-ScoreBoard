@@ -1,7 +1,3 @@
-# CricketIQ-Beyond-The-ScoreBoard
-AI-driven IPL win probability prediction system using XGBoost, GRU, Ensemble Learning, Probability Calibration, FastAPI, and Streamlit.
-
-
 AI-driven IPL win probability prediction system using:
 
 - XGBoost
